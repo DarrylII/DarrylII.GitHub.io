@@ -1,0 +1,35 @@
+h2{
+    color:Red; 
+}
+p{
+    font-size:20px;font-family:Futura 
+}
+li{
+    font-size:20px;font-family:Futura
+}
+div{
+    background-color:black;font-size:Width:792px;Height:28px;border-radius:5px;
+}
+span{
+    color:#cc0000;
+    font-size:24px;
+}
+bold{
+    color:#cc0000;
+}
+body{
+    background-color:orange
+    
+}
+.T{list-style-type:none}
+.T li{float:right}
+.T li>a{display:block;padding:12px 18px;text-decoration:none;color:Black;border-bottom:1px solid black;background-color:white
+}
+
+    
+ .borderimg {
+    border: 25px; border-style:solid groove;
+    padding: 1px;
+    border-image: url(http://blog.hackerearth.com/wp-content/uploads/2016/04/Attributes-of-a-great-programmer..jpg") 30 round;
+    display: block;
+    margin: 0 auto}
